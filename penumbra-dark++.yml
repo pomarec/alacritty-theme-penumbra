@@ -1,0 +1,18 @@
+colors:
+  primary:
+    background: '0x181B1F'
+    foreground: '0xAEAEAE'
+
+  cursor:
+    text:       '0xAEAEAE'
+    cursor:     '0xFFF7ED'
+
+  normal:
+    black:      '0x0D0F13'
+    white:      '0xFFFDFB'
+    red:        '0xF48E74'
+    green:      '0x61C68A'
+    yellow:     '0xC7AD40'
+    blue:       '0x97A6FF'
+    magenta:    '0xE18DCE'
+    cyan:       '0x1AC2E1'
